@@ -32,7 +32,7 @@ OR THE INABILITY TO USE THIS SOFTWARE, EVEN IF Positively Creative Solutions, LL
 ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 The owner of this original code is Positively Creative Solutions, LLC
-All portions are Copyright � 1989-2011                     
+All portions are Copyright 1989-2012
 Positively Creative Solutions, LLC - All Rights Reserved.
 
 $File$
